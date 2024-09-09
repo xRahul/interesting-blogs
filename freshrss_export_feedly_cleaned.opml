@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+    <head>
+        <title>FreshRSS</title>
+        <dateCreated>Mon, 09 Sep 2024 22:32:31 +0800</dateCreated>
+    </head>
+    <body>
+        <outline text="Computer Engineering">
+            <outline text="Airbnb Engineering &amp; Data Science" type="rss"
+                xmlUrl="https://medium.com/feed/airbnb-engineering"
+                htmlUrl="https://medium.com/airbnb-engineering"
+                description="Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium" />
+            <outline text="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks"
+                htmlUrl="https://css-tricks.com"
+                description="Tips, Tricks, and Techniques on using Cascading Style Sheets." />
+            <outline text="David Walsh Blog" type="rss" xmlUrl="http://feeds.feedburner.com/Bludice"
+                htmlUrl="https://davidwalsh.name"
+                description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." />
+            <outline text="Dropbox Tech Blog" type="rss" xmlUrl="https://tech.dropbox.com/feed/"
+                htmlUrl="https://dropbox.tech" description="null" />
+            <outline text="freeCodeCamp.org" type="rss"
+                xmlUrl="https://www.freecodecamp.org/news/rss/"
+                htmlUrl="https://www.freecodecamp.org/news/"
+                description="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice." />
+            <outline text="High Scalability" type="rss"
+                xmlUrl="http://feeds.feedburner.com/HighScalability"
+                htmlUrl="http://highscalability.com/blog/" />
+            <outline text="Martin Fowler" type="rss"
+                xmlUrl="https://martinfowler.com/bliki/bliki.atom"
+                htmlUrl="https://martinfowler.com"
+                description="Master feed of news and updates from martinfowler.com" />
+            <outline text="Netflix TechBlog" type="rss" xmlUrl="https://netflixtechblog.com/feed"
+                htmlUrl="https://netflixtechblog.com?source=rss----2615bd06b42e---4"
+                description="Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium" />
+            <outline text="Spotify Engineering" type="rss" xmlUrl="https://labs.spotify.com/feed/"
+                htmlUrl="https://engineering.atspotify.com/"
+                description="Spotify’s official technology blog" />
+            <outline text="Stack Overflow Blog" type="rss"
+                xmlUrl="https://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog/"
+                description="Essays, opinions, and advice on the act of computer programming from Stack Overflow." />
+            <outline text="The Cloudflare Blog" type="rss" xmlUrl="https://blog.cloudflare.com/rss"
+                htmlUrl="https://blog.cloudflare.com"
+                description="Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet." />
+            <outline text="The GitHub Blog" type="rss" xmlUrl="https://github.blog/all.atom"
+                htmlUrl="https://github.blog/"
+                description="Updates, ideas, and inspiration from GitHub to help developers build and design software." />
+            <outline text="Twitter Engineering" type="rss"
+                xmlUrl="https://freshrss.pi.rahulja.in/api/cloudsolver.php?feed=https://blog.x.com/engineering/en_us/blog.rss"
+                htmlUrl="https://blog.x.com/engineering/en_us"
+                description="Information from Twitter's engineering team about our tools, technology and services."
+                frss:CURLOPT_FOLLOWLOCATION="1" frss:CURLOPT_MAXREDIRS="1"
+                frss:CURLOPT_USERAGENT="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" />
+            <outline text="Uber Engineering Blog" type="rss"
+                xmlUrl="https://www.uber.com/en-SG/blog/engineering/rss"
+                htmlUrl="https://www.uber.com/en-SG/blog/engineering"
+                frss:CURLOPT_FOLLOWLOCATION="1" frss:CURLOPT_MAXREDIRS="1" />
+            <outline text="Vimeo Engineering Blog" type="rss"
+                xmlUrl="https://medium.com/feed/vimeo-engineering-blog"
+                htmlUrl="https://medium.com/vimeo-engineering-blog?source=rss----92df1b631aeb---4"
+                description="We tinker, we build, and we dream up all-new things to help support the world's best community of creators. Lift up the hood and see how it all works. - Medium" />
+        </outline>
+        <outline text="Finance">
+            <outline text="freefincal" type="rss" xmlUrl="https://freefincal.com/feed/"
+                htmlUrl="https://freefincal.com/" />
+            <outline text="Get Rich Slowly" type="rss" xmlUrl="https://www.getrichslowly.org/feed/"
+                htmlUrl="https://www.getrichslowly.org"
+                description="personal finance that makes cents" />
+            <outline text="I Will Teach You To Be Rich" type="rss"
+                xmlUrl="http://www.iwillteachyoutoberich.com/feed/"
+                htmlUrl="https://www.iwillteachyoutoberich.com" description="by Ramit Sethi" />
+            <outline text="Of Dollars And Data" type="rss"
+                xmlUrl="https://ofdollarsanddata.com/feed/" htmlUrl="https://ofdollarsanddata.com"
+                description="Act Smarter.  Live Richer." />
+        </outline>
+        <outline text="Information Technology">
+            <outline text="Dark Reading" type="rss" xmlUrl="https://www.darkreading.com/rss.xml"
+                htmlUrl="https://www.darkreading.com" description="Public RSS feed" />
+            <outline text="gHacks Technology News" type="rss" xmlUrl="http://www.ghacks.net/feed/"
+                htmlUrl="https://www.ghacks.net" description="The independent technology news blog" />
+            <outline text="Google Developers" type="rss"
+                xmlUrl="https://developers.googleblog.com/rss/"
+                htmlUrl="https://developers.googleblog.com/"
+                description="Updates on changes and additions to the Google Developers Blog." />
+            <outline text="Google Online Security Blog" type="rss"
+                xmlUrl="http://www.blogger.com/feeds/1176949257541686127/posts/default?redirect=false"
+                htmlUrl="http://security.googleblog.com/"
+                description="The latest news and insights from Google on security and safety on the Internet." />
+            <outline text="Hacker News Frontpage" type="rss" xmlUrl="https://hnrss.org/frontpage"
+                htmlUrl="https://news.ycombinator.com/" description="Hacker News RSS" />
+            <outline text="Krebs on Security" type="rss" xmlUrl="https://krebsonsecurity.com/feed/"
+                htmlUrl="https://krebsonsecurity.com"
+                description="In-depth security news and investigation" />
+            <outline text="Mozilla Security Blog" type="rss"
+                xmlUrl="http://blog.mozilla.com/security/feed/"
+                htmlUrl="https://blog.mozilla.org/security/" />
+            <outline text="Schneier on Security" type="rss"
+                xmlUrl="https://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com" />
+            <outline text="The Mozilla Blog" type="rss" xmlUrl="http://blog.mozilla.org/feed/"
+                htmlUrl="https://blog.mozilla.org/en/" description="News and Updates about Mozilla" />
+            <outline text="The Official Google Blog" type="rss"
+                xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="https://blog.google/"
+                description="Insights from Googlers into our products, technology, and the Google culture." />
+        </outline>
+        <outline text="News">
+            <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"
+                htmlUrl="https://www.bbc.co.uk/news/world" description="BBC News - World" />
+            <outline text="The Logical Indian" type="rss"
+                xmlUrl="https://thelogicalindian.com/feed/" htmlUrl="https://thelogicalindian.com"
+                description="Handpicked, newsworthy stories which deserve the attention of a rational generation. The Logical Indian is an independent and public-spirited digital news platform for the Indian millennials." />
+        </outline>
+        <outline text="Science">
+            <outline text="New Scientist" type="rss"
+                xmlUrl="https://www.newscientist.com/feed/home/"
+                htmlUrl="https://www.newscientist.com/" description="New Scientist - Home" />
+            <outline text="Space" type="rss" xmlUrl="https://www.space.com/syn/space.xml"
+                htmlUrl="https://www.space.com" />
+        </outline>
+        <outline text="Tech">
+            <outline text="Bartosz Ciechanowski" type="rss" xmlUrl="https://ciechanow.ski/atom.xml"
+                htmlUrl="https://ciechanow.ski/"
+                description="Recent content on Bartosz Ciechanowski" />
+            <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss-full.xml"
+                htmlUrl="http://www.engadget.com"
+                description="Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics" />
+            <outline text="How-To Geek" type="rss" xmlUrl="https://www.howtogeek.com/feed/"
+                htmlUrl="https://www.howtogeek.com"
+                description="We explain technology. Learn more with our articles, reviews, tips, and the best answers to your most pressing tech questions." />
+            <outline text="IGN" type="rss" xmlUrl="http://feeds.ign.com/ign/games-all"
+                htmlUrl="https://www.ign.com/articles"
+                description="This feed contains the latest 20 articles from IGN about games" />
+            <outline text="MIT Technology Review" type="rss"
+                xmlUrl="https://www.technologyreview.com/feed/"
+                htmlUrl="https://www.technologyreview.com" />
+            <outline text="Oculus Blog" type="rss"
+                xmlUrl="https://www.meta.com/blog/quest/rss/?utm_source=www.oculus.com&amp;utm_medium=oculusredirect"
+                htmlUrl="https://www.meta.com/blog/quest/"
+                description="The official blog for all things Oculus." />
+            <outline text="Road to VR" type="rss" xmlUrl="https://www.roadtovr.com/feed"
+                htmlUrl="https://www.roadtovr.com" description="Virtual Reality News" />
+            <outline text="TechCrunch" type="rss" xmlUrl="http://feeds.feedburner.com/Techcrunch"
+                htmlUrl="https://techcrunch.com/"
+                description="Tech Crunch is a free Digital Marketing Site. The main goal of this site is to provide quality tutorials, tips, courses, tools and other resources that allows anyone to work online and master digital marketing based on real case study and deep research." />
+            <outline text="The Daily WTF" type="rss"
+                xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf"
+                htmlUrl="http://thedailywtf.com/"
+                description="Curious Perversions in Information Technology" />
+            <outline text="The Register" type="rss"
+                xmlUrl="http://www.theregister.co.uk/excerpts.rss"
+                htmlUrl="https://www.theregister.com/" description="Biting the hand that feeds IT" />
+            <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/full.xml"
+                htmlUrl="https://www.theverge.com/" />
+            <outline text="Will genAI kill the help desk and other IT jobs? – Computerworld"
+                type="rss" xmlUrl="https://rss.computerworld.com/computerworld/news/feed"
+                htmlUrl="https://www.computerworld.com"
+                description="Making technology work for business" />
+            <outline text="Wired" type="rss" xmlUrl="http://www.wired.com/feed"
+                htmlUrl="https://www.wired.com" description="Channel Description" />
+        </outline>
+    </body>
+</opml>
